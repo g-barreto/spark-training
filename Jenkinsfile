@@ -1,6 +1,6 @@
 timestamps {
     node() {
-        def userId = "par_02"
+        def userId = "facilitador"
         def mainClass = "com.thoughtworks.exercises.batch.Persistence"
         def artifactBucket = "com.thoughtworks.training.de.recife/${userId}/bin"
 
